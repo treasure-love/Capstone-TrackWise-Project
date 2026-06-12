@@ -32,7 +32,7 @@ nav{
 nav span{
     align-items: flex-start;
     margin-top: -50px;
-    margin-left: -50px;
+    margin-left: 0px;
     
 }
 .nav-links{
